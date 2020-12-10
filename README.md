@@ -26,17 +26,13 @@ I love solving diverse problems as part of a diverse team. I'm particularly inte
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## ⚡ Fun facts
+## ⚡ Fun Facts
   
    - Earned a $8000 USD scholarship playing League of Legends. Founder and captain of YorkU GoonSquad LoL team.
    - MyAnimeList viewed over 14,000 times for my recommendations
    - Favourite emoji: :smirk: (the *smirk*)
-
-<hr>
-
-<strong>Statistics</strong>
-<br>
-
+   
+## 📈 Statistics
 <!-- GitHub stats -->
 <p align="left">
 <img src="https://github-readme-stats.jackywzheng.vercel.app/api?username=jackywzheng&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.jackywzheng.vercel.app/api/top-langs/?username=jackywzheng&layout=compact&theme=buefy" alt="languages" height="165">
