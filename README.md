@@ -8,7 +8,7 @@ I love solving diverse problems as part of a diverse team. I'm particularly inte
 
 [<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
+<br>
 
 ## 💻 Technologies
 
