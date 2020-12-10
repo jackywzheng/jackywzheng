@@ -6,8 +6,9 @@ I'm Jacky Zheng and currently in my last year of the Computer Systems Technology
 
 I love solving diverse problems as part of a diverse team. I'm particularly interested in full-stack development, DevOps, and Cloud computing. Find out more about me and feel free to contact me below!
 
-[![Linkedin Badge](https://img.shields.io/badge/-jackywzheng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackywzheng/)](https://www.linkedin.com/in/jackywzheng/)
-[![Gmail Badge](https://img.shields.io/badge/-jackywzheng@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jackywzheng@gmail.com)](mailto:jackywzheng@gmail.com)
+[<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 
 ## 💻 Technologies
 
@@ -19,6 +20,7 @@ I love solving diverse problems as part of a diverse team. I'm particularly inte
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=jenkins)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -40,18 +42,10 @@ I love solving diverse problems as part of a diverse team. I'm particularly inte
 <img src="https://github-readme-stats.jackywzheng.vercel.app/api?username=jackywzheng&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.jackywzheng.vercel.app/api/top-langs/?username=jackywzheng&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 
-
-<!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
-
-<!--START_SECTION:waka-->
-
-
-
-
-<!--END_SECTION:waka-->
-
-
 ---
+
+[linkedin]: https://www.linkedin.com/in/jackywzheng/
+[gmail]: mailto:jackywzheng@gmail.com
 
 
 <!--Shoutout to those who work on GitHub profile and make it look FABULOUS -->
