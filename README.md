@@ -1,29 +1,18 @@
-<!--
-banner made with canva
--->
-
 <!--header2, the image below is an animated waving hand emoji-->
-<h2>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-
-<!--badges-->
+<h2>Hello strange, yet respectable traveller! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<!--profile views-->
 <img src="https://komarev.com/ghpvc/?username=jackywzheng" alt="jackywzheng" />
 
+I'm Jacky Zheng and currently in my last year of the Computer Systems Technology Diploma program at BCIT. I enjoy seeing how technology can better peoples' lives and making a difference. I'm particularly interested in full-stack development, DevOps, and Cloud computing. Find out more about me and feel free to contact me!
 
-<strong>📫 How to reach me </strong>
-   
-   1. [linkedin](https://www.linkedin.com/in/jackywzheng/) 
-   2. [email](mailto:jackywzheng@gmail.com) 
-   
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-jackywzheng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackywzheng/)](https://www.linkedin.com/in/jackywzheng/)
+[![Gmail Badge](https://img.shields.io/badge/-jackywzheng@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jackywzheng@gmail.com)](mailto:jackywzheng@gmail.com)
 
 <strong>⚡ Fun facts</strong>
    
    - Earned a $8000 USD scholarship playing League of Legends. Founder and captain of YorkU GoonSquad LoL team.
    - MyAnimeList viewed over 14,000 times for my recommendations
-   - Favorite emoji: :smirk: (the *smirk*)
-
-
+   - Favourite emoji: :smirk: (the *smirk*)
 
 <hr>
 
