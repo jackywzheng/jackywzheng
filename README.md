@@ -32,7 +32,7 @@ banner made with canva
 
 <!-- GitHub stats -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=jackywzheng&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackywzheng&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.jackywzheng.vercel.app/api?username=jackywzheng&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.jackywzheng.vercel.app/api/top-langs/?username=jackywzheng&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 
 
