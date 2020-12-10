@@ -1,5 +1,4 @@
-<!--header2, the image below is an animated waving hand emoji-->
-<h2>Hello strange, yet respectable traveller! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+## Hello strange, yet respectable traveller! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--profile views-->
 <img src="https://komarev.com/ghpvc/?username=jackywzheng" alt="jackywzheng" />
 
@@ -10,12 +9,13 @@ I love solving diverse problems as part of a diverse team. I'm particularly inte
 [![Linkedin Badge](https://img.shields.io/badge/-jackywzheng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackywzheng/)](https://www.linkedin.com/in/jackywzheng/)
 [![Gmail Badge](https://img.shields.io/badge/-jackywzheng@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jackywzheng@gmail.com)](mailto:jackywzheng@gmail.com)
 
-<strong>💻 Technologies</strong>
+## 💻 Technologies
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -24,8 +24,8 @@ I love solving diverse problems as part of a diverse team. I'm particularly inte
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<strong>⚡ Fun facts</strong>
-   
+## ⚡ Fun facts
+  
    - Earned a $8000 USD scholarship playing League of Legends. Founder and captain of YorkU GoonSquad LoL team.
    - MyAnimeList viewed over 14,000 times for my recommendations
    - Favourite emoji: :smirk: (the *smirk*)
