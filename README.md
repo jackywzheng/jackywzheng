@@ -20,7 +20,7 @@ I love solving diverse problems as part of a diverse team. I'm particularly inte
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=jenkins)
+![Jenkins](https://img.shields.io/badge/-Jenkins-feebb3?style=flat-square&logo=jenkins)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
